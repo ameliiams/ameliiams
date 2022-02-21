@@ -3,7 +3,9 @@
 - I'm a student and self-taught developer with an interest in hacking and security
 - Outside of technology, I'm interested in art and graphic design
 - Main Language: Python
-- Currently Learning: C
+- Currently Learning: C, Rust
+
+[![Amelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=m33ls&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Tools / Programming Languages
 <div>
