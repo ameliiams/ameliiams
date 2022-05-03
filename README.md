@@ -3,7 +3,7 @@
 - I'm a student and self-taught developer with an interest in hacking and security
 - Outside of technology, I'm interested in art and graphic design
 - Main Language: Python
-- Currently Learning: C, Rust
+- Currently Learning: Binary Exploitation and Bug hunting
 
 #### My Tools / Programming Languages
 <div>
