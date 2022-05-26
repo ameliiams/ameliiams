@@ -1,6 +1,4 @@
-```
-
-                                                               
+```                                                               
            .88b  d88. d8888b. d8888b. db      .d8888.          
            88'YbdP`88 VP  `8D VP  `8D 88      88'  YP          
            88  88  88   oooY'   oooY' 88      `8bo.            
@@ -25,7 +23,7 @@
                                                                
 +──\\──────────────────────────────────────────────────────\\──+
 ```
-
+  
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>
