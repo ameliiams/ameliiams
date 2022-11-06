@@ -10,12 +10,10 @@
 
 +──\\──────────────────────────────────────────────────────\\──+ 
                                                                
-   - I'm a student and self-taught developer with an interest  
-     in hacking and security                                   
-   - Outside of technology, I'm interested in art and graphic  
-     design                                                    
-   - Main Language: Python                                     
-   - Currently Learning:  Binary Exploitation and Bug hunting  
+   - I'm a queer woman who likes to hack                             
+   - In my free time, I'm interested in art, graphic design,
+     music and video games.                                      
+   - Currently Learning / Working on: Rust  
                                                                
    My Tools / Programming Languages                            
                                                                
